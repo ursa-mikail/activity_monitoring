@@ -74,5 +74,6 @@ print("Exported to score_time_series.html")
 📌 Plotly renders a time series graph with scores.
 📌 Hovering over a point displays the log message via tooltip.
 
-📌 
+📌📌 Create a file named score_time_series.html in the working directory. You can open it in any browser or share it as a self-contained interactive chart.
+
 """

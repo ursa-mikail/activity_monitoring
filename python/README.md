@@ -1,1 +1,4 @@
 # python_activity_monitoring
+
+![monitoring_with_hoovering_data_on_cursor](monitoring_with_hoovering_data_on_cursor.png)
+

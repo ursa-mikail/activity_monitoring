@@ -190,8 +190,8 @@ Add a Grafana panel to visualize:
 - error_rate
 
 Panel Titles:
-✅ 🔥 Critical Errors Count
-📈 Error Spike Trend (per minute)
+- ✅ 🔥 Critical Errors Count
+- 📈 Error Spike Trend (per minute)
 
 
 📁 Step 5: Export to CSV & HTML Plot with Python

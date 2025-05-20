@@ -404,7 +404,7 @@ docker-compose up --build
 | Grafana		 | http://localhost:3000			|
 | Python metrics | http://localhost:8000/metrics	|
 
-Default Grafana login: admin / admin (Caveat: Do not use default.)
+Default Grafana login: admin / admin (<b> Caveat </b>: Do not use default.)
 
 📈 Optional: Add Grafana Dashboard
 You can provision a dashboard using grafana/provisioning/dashboards/ and add:

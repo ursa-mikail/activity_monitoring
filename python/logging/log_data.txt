@@ -38,6 +38,15 @@ tag, object attributes, content (non-nested of other element, objects, or elemen
 * responsive / non-intrusive (unsolicited)
 * clear and simple / reduced / minimal
 * early knowledge
+
+= System design is a canvas of vision drawing towards a plausible operational service, you paint and refine the nuances together with the stakeholders. The nuances draw the raison d’etre of the features to link to the use cases. 
+= Users - activities (sync/asynch) - specific actions (use case tree) involving TPS (put upper and lower bounds, and ensure you factor in scaling by ensuring you be factoring)
+= Design the APIs as the user experience *(refine by parameters)
+= separate the db and describe the data structure to manage them (esp interfacing) - according to how it may be update / static, segment the data (meta) structure (data should also have a state - active/out-dated, etc)
+= set a framework to draw solutions from simple and general to refined and specific (and bring in concepts (caching, HA. etc), mechanisms and tech). Highlight the cruxes, and criticals and crucibles of the problems. (storage, BW, latency, etc)
+= put yourself in the user experience walkthrough (think if the service set upper/lower bound limits of the usage)
+= identify bottlenecks (may be data struct / partition / localization). 
+
 """
 
 [2025-05-10_2226hr_28sec]

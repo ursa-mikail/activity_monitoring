@@ -1,0 +1,101 @@
+[2025-05-10_1140hr_36sec]
+"""
+Set objectives (identify assets)
+Visualize (Clarify) <--- architecture ---> decomposition 
+Identify Threats ---> classify ---> rank and rate
+Set mitigations and measures
+Validate
+
+Automation
+Integration (tooling for SDLC and Ops)
+Collaboration 
+
+= Change management: who, what, why, for how long?? AutomationML
+
+Automate management of: secrets (MFA), settings, set-ups and maintenance, e.g. patch and upgrade (secure by default: PaaS, SaaS, IaaS), packages, etc.  
+Automate and distribute securely with scale.
+
+Reduce complexity (sabotaging (control by preserving complexity) <- to bypass), reduce cost
+
+Cost efficiency
+Operational and Engineering Maturation
+Technological (Automation) Augmentation
+
+toolchain are −
+      - Predefined and standard structure / guided workflow of CI/CD.
+      - Ready-made project template, libraries, forms, formats, components, mechanisms, protocols, algorithm references, etc for guiding development of different types of services. - components:= {elements, UI, API, and function interfaces}
+
+Programmatically: class (extends the X.component class) or just inline function
+
+tag, object attributes, content (non-nested of other element, objects, or elements)
+      - Component has properties, state management, life cycle and event handler. 
+      - Development web server / services / facilities and related tools included.
+      - Easy way to include trusted third party components (with updated advisory including update-to-date CVEs).
+      - Default setup to CI/CD the creation.
+      - This should include reference architecture and policies, primers, etc.
+
+* user defined / initiated
+* responsive / non-intrusive (unsolicited)
+* clear and simple / reduced / minimal
+* early knowledge
+"""
+
+[2025-05-10_2226hr_28sec]
+"""
+Network: limit mobility; systems: scan vulnerabilities; resources (identity, data and access): A6 
+
+physical (physical access to hardware and infra), network (network infra and data flow), perimeter (access router and gateway), endpoint (device connected to network), application (software and application), data (types and life cycles), user education.
+
+Distributed and modularization issues: latency, updating and upgrading: messaging (complexity in data formats and parsing, data volumes in caching creeps in, bandwidth costs, etc), maintenance, complexity in pluralism (with `dependencies sewages` (and therein zero-days and `exploit black swans`)) and migration. On-par scaling (as each component the mileage differs). Even orchestration comes into issues if functions, features or services were to be augmented or just added. Some functions may not be parallel anymore or it may hinder, halt or cast the runnings into limbo. 
+
+API GW - ELB + reverse proxy (compression, SSL termination, caching + security defenses)
+
+// test: AWS device farm (integrated in CICD)
+// testflight, googleBeta testing
+// ASO: App store optimization (e.g. regionalization, etc)
+
+Monitor: all strata
+Scan: IAST, DAST, SAST, CVEs, image and runtime, configs, SBoMs
+CICD: automated build-test-deploy (with QA assurance)
+Ops: knowledge evolving and transfer based
+Threat and VA: man-machine-method
+Secrets management
+
+= AWS requires you to sign API requests. The current spec is “v4”, which tells you that there is probably at least one version that preceded it.
+= Add a signature on the outside of the request body, ensure the request body is complete, and don’t worry about “signing what is said versus what is meant” – it’s OK to sign the exact byte sequence.
+"""
+
+[2025-05-11_0038hr_34sec]
+"""
+Analytics: competitive - enhancement comparison - situational (status quo and pain points: gaps and lacks / deficiency / mismatch (demand not met, audience ignored or neglected, unaware of interest / desire / preferences (e.g. onsite or online), etc), system amnesia, lose-lock, DoS, confusion / overwhelming, non-observable (e.g. lack tracking or monitoring, etc), non-collabille, non-available / inaccessible, etc)  
+
+Metrics: demand / engagement: traffic
+"""
+
+[2025-05-17_2345hr_06sec]
+"""
+Tech debt comes from 2 sources:
+_Decisions about tradeoffs. Prefer prudent decisions (where you have a good understanding of the nature of the technical debt) over reckless decisions (without taking into consideration the tech debt).
+_Knowledge (or lack of it) when making decisions about design and implementation.
+
+"""
+
+[2025-05-18_1223hr_16sec]
+""" 
+Growth in User Base
+Growth in Features
+Growth in Data Volume
+Growth in Complexity (ecostructure, such as microservices)
+Growth in Geographic Reach
+
+= Users onboarding - link to capacity and computational quota management - link to monitoring - link to trusted node provisioning 
+= tenancy and segregation to the level of usage facility clustering, regionalization, safety (failure and availability tolerance) and security
+
+
+Instead of scaling with minimal viable product (MVP), scale MVP with the minimal viable market (MVM). 
+"""
+
+[2025-05-19_1134hr_10sec]
+"""
+= Like, Long for, Learn, Lack (including what help you long for)
+"""

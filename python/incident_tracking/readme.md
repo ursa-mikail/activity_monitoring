@@ -242,14 +242,14 @@ with open("critical_dashboard.html", "w") as f:
 
 <hr>
 
-🐳 Complete Dockerized ELK + Prometheus + Grafana Pipeline
+## 🐳 Complete Dockerized ELK + Prometheus + Grafana Pipeline
 ✅ 
-📦 Filebeat: Watches logs from host or container
-🔍 Elasticsearch: Stores logs
-📊 Kibana: Visual dashboard and alerts
-📈 Prometheus: Scrapes Python metrics from log analyzer
-📺 Grafana: Visualizes error rates and trends
-🐍 Python Log Analyzer: Streams metrics and exports CSV/HTML
+- 📦 Filebeat: Watches logs from host or container
+- 🔍 Elasticsearch: Stores logs
+- 📊 Kibana: Visual dashboard and alerts
+- 📈 Prometheus: Scrapes Python metrics from log analyzer
+- 📺 Grafana: Visualizes error rates and trends
+- 🐍 Python Log Analyzer: Streams metrics and exports CSV/HTML
 
 
 📁 Project Structure

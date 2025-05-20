@@ -235,10 +235,10 @@ with open("critical_dashboard.html", "w") as f:
 ```
 
 🚀 Summary
-✅ Real-time alerting (Filebeat + Elasticsearch + Watcher)
-✅ Metrics for Prometheus + Grafana
-✅ CSV & HTML reports
-✅ Python-based plot for quick review
+- ✅ Real-time alerting (Filebeat + Elasticsearch + Watcher)
+- ✅ Metrics for Prometheus + Grafana
+- ✅ CSV & HTML reports
+- ✅ Python-based plot for quick review
 
 <hr>
 
@@ -404,7 +404,7 @@ docker-compose up --build
 | Grafana		 | http://localhost:3000			|
 | Python metrics | http://localhost:8000/metrics	|
 
-Default Grafana login: admin / admin
+Default Grafana login: admin / admin (Caveat: Do not use default.)
 
 📈 Optional: Add Grafana Dashboard
 You can provision a dashboard using grafana/provisioning/dashboards/ and add:

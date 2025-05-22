@@ -316,6 +316,7 @@ Polariod should have used it to forecast that had they should had gone into digi
 Program includes an interactive plot where hovering over each point displays annotations explaining the data.
 
 <hr>
+
 Visualizes:
 	- Microsoft 🟢 or 🟩: A strong growth trajectory with key historical milestones.
 	- Polaroid 🔴 or 🟥: A decline into bankruptcy due to failure to adapt to digital trends.

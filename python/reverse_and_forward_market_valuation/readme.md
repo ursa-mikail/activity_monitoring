@@ -315,13 +315,11 @@ Polariod should have used it to forecast that had they should had gone into digi
 <hr>
 Program includes an interactive plot where hovering over each point displays annotations explaining the data.
 
-
-
 <hr>
 Visualizes:
-- Microsoft 🟢 or 🟩: A strong growth trajectory with key historical milestones.
-- Polaroid 🔴 or 🟥: A decline into bankruptcy due to failure to adapt to digital trends.
-- Future AI Org 🔵 or 🟦: A forecast of success based on technological adoption and scaling.
+	- Microsoft 🟢 or 🟩: A strong growth trajectory with key historical milestones.
+	- Polaroid 🔴 or 🟥: A decline into bankruptcy due to failure to adapt to digital trends.
+	- Future AI Org 🔵 or 🟦: A forecast of success based on technological adoption and scaling.
 
 Each point includes hoverable reasons for valuation change.
 

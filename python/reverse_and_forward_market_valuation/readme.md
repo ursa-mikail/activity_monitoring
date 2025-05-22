@@ -318,6 +318,7 @@ Program includes an interactive plot where hovering over each point displays ann
 <hr>
 
 Visualizes:
+
 	- Microsoft 🟢 or 🟩: A strong growth trajectory with key historical milestones.
 	- Polaroid 🔴 or 🟥: A decline into bankruptcy due to failure to adapt to digital trends.
 	- Future AI Org 🔵 or 🟦: A forecast of success based on technological adoption and scaling.

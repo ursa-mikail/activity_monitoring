@@ -1,5 +1,7 @@
 # 100_day_game_demo
 
+View interactive graphs: [option 57](https://ursa-mikail.github.io/site_announcement/)
+
 1. Generate Sample Data
 ```bash
 python 01_generate_data_csv_and_json.py
